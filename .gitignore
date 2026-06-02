@@ -50,3 +50,28 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# ===== Keil MDK Build Outputs =====
+# Compiler listings
+*.lst
+# Cross-reference
+*.crf
+# Dependency
+*.dep
+# Linker scatter file (auto-generated)
+*.sct
+
+# Build output directories
+objects/
+listings/
+
+# ===== Keil MDK User-Specific =====
+# User window layout (generated per-user by μVision)
+*.uvguix.*
+
+# ===== VSCode / Editor =====
+*.log
+*.lock
+.vscode/keil-assistant.log
+.vscode/uv4.log
+.vscode/uv4.log.lock
