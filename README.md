@@ -14,7 +14,7 @@ DAQ34001 is a dual-range RS485 voltage acquisition card based on the **AT32F421*
 
 ![DAQ34001](resource/overview.jpg)
 
-> 视频演示：*待补充* ｜ 立创开源：*待补充*
+> 视频演示：*待补充* ｜ [立创开源](https://oshwhub.com/waterbird/project_tgelpqyb)
 
 ## 主要参数 | Specifications
 
